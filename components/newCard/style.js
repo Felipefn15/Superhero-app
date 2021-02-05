@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 
-export const Card = styled.div`
+export const Card = styled.button`
     display: flex;
     width: 300px;
     height: 300px;
+    background-color: white;
     align-items: center;
     justify-content: center;
     margin: 20px;
