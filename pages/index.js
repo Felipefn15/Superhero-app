@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { HerosWrapper, Header, Search, Cards, Favorite, Loading } from './style';
+import { HerosWrapper, Header, Search, Cards, Favorite, Loading } from '../components/style';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch, faHeart } from '@fortawesome/free-solid-svg-icons';
 import Card from '../components/card';
